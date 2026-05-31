@@ -9,12 +9,12 @@ I'm a member of:
 - 🎯 **AVID** (Advancement Via Individual Determination)
 - 🌲 **Willamette Academy**
 
-I'm a **beginner to coding and web developing**, but hoping to become an advanced coder. I believe that problem-solving skills translate across domains—whether it's debugging an application, crafting a melody, or perfecting a dance move. I'm passionate about building projects that solve real problems and exploring new technologies.
+I'm a **beginner to coding and web developing**, but hoping to become an advanced coder.  I'm passionate about building projects that solve real problems and exploring new technologies.
 
-- 🔭 Currently building a webpage for the Avid project
-- 🎤 Passionate about singing and creative expression
-- 💃 Dance enthusiast who believes in rhythm and balance
-- 🧩 Problem-solver at heart—both in code and beyond
+- 🔭 Currently building a webpage for an Avid project
+- 🎤 Passionate about singing 
+- 💃 Dance 
+- 🧩 Problem-solver both in code and beyond
 - 🌱 Actively learning new technologies and best practices
 - 🎯 Goal: Grow into a confident, well-rounded advanced developer
 - 🤝 Open to collaboration, feedback, and mentorship
@@ -38,24 +38,17 @@ Now, looking back at what I've built with the Avid project, I'm genuinely proud.
 ### Project Details
 *A modern, interactive webpage for the Avid project. Born from struggle, built with determination, and refined through countless iterations. This project stands as proof that persistence beats perfection.*
 
-**Tech Stack:** HTML, CSS, JavaScript, Python, React  
+ 
 **Status:** 🚧 In Progress  
-[View Repository](#) | [Live Demo](#)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benitha-benie&show_icons=true&theme=midnight-blue&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benitha-benie&layout=compact&theme=midnight-blue)
 
 ## 🌐 Connect With Me
 
-I'd love to connect! Feel free to reach out:
+If you have any questions at all feel free to reach out:
 
 - **📧 Email:** [benitha.ineza27@gmail.com](mailto:benitha.ineza27@gmail.com)
 - **📱 Instagram:** [@yours.benie](https://instagram.com/yours.benie)
 - **👻 Snapchat:** benitha_benie27
-- **💼 LinkedIn:** [Your LinkedIn Profile](#)
 - **🌐 Portfolio:** [Your Website](#)
 
 ## 💬 Let's Collaborate!
@@ -68,20 +61,19 @@ I'm always interested in:
 - **Helping other beginner developers** (especially those feeling stuck!)
 - **Sharing experiences about the journey from struggle to success**
 
-If you see something interesting, have suggestions, or just want to chat about development, music, dance, or life—reach out! I'm here for it. 🎉
+
 
 ---
 
 ## 📈 My Development Roadmap
 
-**Currently:** Building the Avid project webpage & mastering full-stack fundamentals while learning from every mistake
-
+**May 30th:** Building the Avid project webpage
 ---
 
 <div style="background: linear-gradient(135deg, #0a2463 0%, #1a1a2e 50%, #8b0000 100%); padding: 20px; border-radius: 8px; text-align: center; color: white;">
 
-**"Life is a dance, code is problem-solving, and singing brings it all together. Every line of code I write is proof that I didn't give up." 🎵💻💃**
+**"Life is too short to not challenge yourself**
 
 </div>
 
-**Thanks for visiting! Happy coding! ✨**
+**Thanks for visiting! Benie out  ✨**
